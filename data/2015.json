@@ -1,0 +1,134 @@
+{
+	"categories": [
+		{
+			"name": "techniques",
+			"items": [
+				{
+					"name": "IOC",
+					"band": "Adopt"
+				},
+				{
+					"name": "Continuous Delivery",
+					"band": "Adopt"
+				},
+				{
+					"name": "Unit Testing",
+					"band": "Adopt"
+				},
+				{
+					"name": "Agility",
+					"band": "Adopt"
+				},
+				{
+					"name": "Visual Planning",
+					"band": "Adopt"
+				},
+				{
+					"name": "Version Control",
+					"band": "Trial"
+				}
+			]
+		},
+		{
+			"name": "platforms",
+			"items": [
+				{
+					"name": "SDN",
+					"band": "Assess"
+				},
+				{
+					"name": "vSphere",
+					"band": "Assess"
+				},
+				{
+					"name": "Chef",
+					"band": "Trial"
+				},
+				{
+					"name": "Puppet",
+					"band": "Trial"
+				},
+				{
+					"name": "HyperV",
+					"band": "Trial"
+				},
+				{
+					"name": "Azure",
+					"band": "Trial"
+				},
+				{
+					"name": "AWS",
+					"band": "Trial"
+				},
+				{
+					"name": "Scripting",
+					"band": "Adopt"
+				},
+				{
+					"name": "Infrastructure as Code",
+					"band": "Adopt"
+				}
+			]
+		},
+		{
+			"name": "tools",
+			"items": [
+				{
+					"name": "TeamCity",
+					"band": "Adopt"
+				},
+				{
+					"name": "Octopus Deploy",
+					"band": "Adopt"
+				},
+				{
+					"name": "Team Foundation Server",
+					"band": "Assess"
+				},
+				{
+					"name": "Git",
+					"band": "Adopt"
+				},
+				{
+					"name": "Sauce Labs",
+					"band": "Adopt"
+				}
+			]
+		},
+		{
+			"name": "languagesframeworks",
+			"items": [
+				{
+					"name": "C#",
+					"band": "Adopt"
+				},
+				{
+					"name": "C++",
+					"band": "Adopt"
+				},
+				{
+					"name": "TypeScript",
+					"band": "Adopt"
+				},
+				{
+					"name": "JQuery",
+					"band": "Adopt"
+				},
+				{
+					"name": "KnockoutJs",
+					"band": "Adopt"
+				},
+				{
+					"name": "RAML",
+					"band": "Adopt"
+				}
+			]
+		}
+	],
+	"bands": [
+		"Hold",
+		"Assess",
+		"Trial",
+		"Adopt"
+	]
+}
