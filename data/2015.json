@@ -119,6 +119,10 @@
 					"band": "Adopt"
 				},
 				{
+					"name": "Akka.Net",
+					"band": "Assess"
+				},
+				{
 					"name": "RAML",
 					"band": "Adopt"
 				}
